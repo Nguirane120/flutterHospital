@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:mediacal_health/scrrens/home_screen.dart';
+import 'package:mediacal_health/scrrens/settings_screen.dart';
 
 
 class NavbarRoots extends StatefulWidget {
@@ -17,7 +18,7 @@ class _NavbarRootsState extends State<NavbarRoots> {
       HomeScreen(),
       Container(),
       Container(),
-      Container(),
+      SettingScreen(),
     ];
   @override
   Widget build(BuildContext context) {
