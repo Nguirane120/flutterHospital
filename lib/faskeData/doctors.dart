@@ -3,4 +3,6 @@ final List doctorList = [
   "doc2.webp",
   "doc3.webp",
   "doc4.webp",
+  "doc4.webp",
+  "doc4.webp",
 ];
